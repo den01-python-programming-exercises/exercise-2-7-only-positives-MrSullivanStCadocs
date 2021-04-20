@@ -1,7 +1,7 @@
 def main():
     #write your code below this line
     while True:
-      number = int(input("Give a number: "))
+      number = int(input("Give a number:"))
 
       if (number<0):
         print("Unsuitable number")
